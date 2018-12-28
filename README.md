@@ -1,0 +1,2 @@
+# iSOFrameworkNewBuildSyste
+演示使用workspace集成sdk,并且使用pod连接,来编译打包
