@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+workspace 'Demo.xcworkspace'
+
+target 'Demo' do
+    pod 'MMKV'
+end
+
+target 'DemoLib' do
+	project '../DemoLib/DemoLib'
+    pod 'MMKV'
+end
