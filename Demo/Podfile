@@ -1,6 +1,6 @@
 platform :ios, '8.0'
 workspace 'Demo.xcworkspace'
-
+use_frameworks!
 target 'Demo' do
     pod 'MMKV'
 end
